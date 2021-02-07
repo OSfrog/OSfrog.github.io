@@ -1,0 +1,45 @@
+@import url(//db.onlinewebfonts.com/c/05d0872c73920fc4541caa9c7950f686?family=Raisonne+DemiBold);
+
+body {
+    text-align: center;
+    background-color: rgb(197, 176, 176);
+}
+footer {
+    margin-top: 1%;
+    margin-left: 45%;
+    text-align: left;
+}
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: #0B8F25;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+h1 {
+    font-family: Raisonne DemiBold;
+    font-size: 5rem;
+    margin: auto;
+}
+h2 {
+    font-size: xx-large;
+}
+.helvetica {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrapper {
+    margin-top: 12.5%;
+}
+.footer_socials {
+    font-size: larger;
+    letter-spacing: 0.2em;
+    margin-left: 5%;
+}
