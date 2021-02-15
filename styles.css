@@ -1,6 +1,9 @@
 @font-face {
     font-family: "Raisonne DemiBold";
-    src: url('/font/05d0872c73920fc4541caa9c7950f686.ttf') format('truetype');
+    src: url('/font/05d0872c73920fc4541caa9c7950f686.ttf') format('truetype'),
+     url('/font/05d0872c73920fc4541caa9c7950f686.woff') format('woff'),
+     url('/font/05d0872c73920fc4541caa9c7950f686.woff2') format('woff2');
+
 }
 
 body {
